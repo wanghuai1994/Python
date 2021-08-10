@@ -9,7 +9,6 @@ dependencies:
     - matplotlib
     - pandas
     - thinc
-    - PyTorch
     - TensorFlow
     - jieba
     - thinc
