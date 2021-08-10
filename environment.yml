@@ -12,3 +12,11 @@ dependencies:
     - PyTorch
     - TensorFlow
     - jieba
+    - thinc
+    - tqdm
+    - Pillow
+    - xgboost
+    - sympy
+    - requests
+    - lightgbm
+    - catboost
